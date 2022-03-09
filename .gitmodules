@@ -1,0 +1,3 @@
+[submodule "common-env0-yml"]
+	path = common-env0-yml
+	url = https://github.com/roni-frantchi/common-env0-yml
